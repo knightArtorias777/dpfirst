@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "eac26bd6004ed4a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f24bd2a8c986904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a2b08fabfdef0c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e97d40ad4c7a2c1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20a4868e5be9e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "191d7c5403ec74f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "984fa735cd234415",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ba968ad5b190eede",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e524d07c0902a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "158cb604a0aae111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f5764ecf5f06c7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1/Demand/703613473_指定优化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "703613473_指定优化 的反向链接列表"
+            }
+          },
+          {
+            "id": "032c650509df1a22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1/Demand/703613473_指定优化.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "703613473_指定优化 的出链列表"
+            }
+          },
+          {
+            "id": "07e1414d612e3d03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "96f0baefd86e5d78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1/Demand/703613473_指定优化.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "703613473_指定优化 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "191d7c5403ec74f3",
+  "lastOpenFiles": [
+    "1/Demand/703621161_管理端——增加足环扫描.md",
+    "api/projectman/v1/upload/7faaa4876bb64548904ef58bb6ee12bf/202104/1617269177035035863.png",
+    "1/Demand/703627540_导入专题优化.md"
+  ]
+}
